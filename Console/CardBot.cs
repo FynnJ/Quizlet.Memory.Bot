@@ -8,12 +8,10 @@ public static class CardBot
 {
     public static async Task Beat()
     {
-        System.Console.WriteLine("Program start");
-
         var cardSolutions = JsonConvert.DeserializeObject<Cards>(File.ReadAllText("cards.json"));
         if (cardSolutions == null)
         {
-            throw new Exception("Karteikarten.json not found");
+            throw new Exception("cards.json");
         }
 
         var driver = UndetectedChromeDriver.Create(
@@ -32,8 +30,6 @@ public static class CardBot
 
         System.Console.ReadLine();
         driver.Quit();
-
-        System.Console.WriteLine("Program end");
     }
 
     private static void MatchCardsExceptionHelper(UndetectedChromeDriver driver, Cards cardSolutions)
