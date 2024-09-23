@@ -1,0 +1,116 @@
+{
+  "Items": [
+    {
+      "Text1": "Break/Fix-Support/ Field Service,Vor-Ort-Service",
+      "Text2": "Reparatur von Hardware durch einen Techniker vor Ort"
+    },
+    {
+      "Text1": "On-Site-Management",
+      "Text2": "Ein Mitarbeiter hat einen festen Arbeitsplatz beim Kunden"
+    },
+    {
+      "Text1": "Swap-Service",
+      "Text2": "Austausch von identisch ausgestatteten Geräten"
+    },
+    {
+      "Text1": "DIY-Service",
+      "Text2": "Selbsthilfe für Anwender ohne Garantieverlust"
+    },
+    {
+      "Text1": "Cloud-Services",
+      "Text2": "Cloud-basierte Dienste/Software"
+    },
+    {
+      "Text1": "Live-Chat",
+      "Text2": "Onlinekommunikation in Echtzeit"
+    },
+    {
+      "Text1": "Chatbot",
+      "Text2": "Automatisierter Textsupport für Kunden"
+    },
+    {
+      "Text1": "Managed Services",
+      "Text2": "Administration von Systemen"
+    },
+    {
+      "Text1": "Garantieservice",
+      "Text2": "Unentgeltliche Services aufgrund von gesetzlicher Verpflichtung des Anbieters"
+    },
+    {
+      "Text1": "Kulanz",
+      "Text2": "Freiwilliger unentgeltlicher Service"
+    },
+    {
+      "Text1": "Helpdesk-Service",
+      "Text2": "Online verfügbares Ticketsystem"
+    },
+    {
+      "Text1": "Wartungsservice",
+      "Text2": "Service in Form eines Wartungsvertrages"
+    },
+    {
+      "Text1": "Reparaturservice",
+      "Text2": "Hardwarereparatur"
+    },
+    {
+      "Text1": "IT-Sourcing/IT-Outsourcing",
+      "Text2": "Auslagerung von IT-Dienstleistungen auf externe Firmen"
+    },
+    {
+      "Text1": "IT-Einweisung",
+      "Text2": "Kurze Einweisung in ein Programm/Hardware"
+    },
+    {
+      "Text1": "IT-Training/IT-Schulung",
+      "Text2": "Geben von Schulungen für Kunden (nicht kostenfrei)"
+    },
+    {
+      "Text1": "Service-Verfügbarkeit",
+      "Text2": "Ständige Erreichbarkeit innerhalb von Geschäftszeiten (24/7)"
+    },
+    {
+      "Text1": "Servicedesk",
+      "Text2": "IT-basiertes Informationssystem für die technische Unterstützung"
+    },
+    {
+      "Text1": "IT-Service-Management (ITSM)",
+      "Text2": "Überbegriff für Dienstleistungen in der IT (Planung, Umsetzung, Support)"
+    },
+    {
+      "Text1": "Serviceportfolio und Servicekatalog",
+      "Text2": "Auflistung der anzubietenden Support-Leistungen"
+    },
+    {
+      "Text1": "Service-Level-Management",
+      "Text2": "Abschluss von Servicevereinbarungen entsprechend den vereinbarten Service-Leveln"
+    },
+    {
+      "Text1": "Key-Performance-Indikator (KPI)",
+      "Text2": "Messwerte für das Erfüllen von Zielen"
+    },
+    {
+      "Text1": "Service-Oriented-Architecture (SOA)",
+      "Text2": "Vorgefertigte Service-Module, allgemein verwendbar und kostengünstiger"
+    },
+    {
+      "Text1": "Cloud-Plattformen von Providern (4)",
+      "Text2": "Infrastructure as a Service (IaaS)Function as a Service (FaaS)Platform as a Service (PaaS)Software as a Service (SaaS)"
+    },
+    {
+      "Text1": "Infrastructure as a Service (IaaS)",
+      "Text2": "Cloud-Plattform, mit der Provider z.B. Rechenleistung anbieten."
+    },
+    {
+      "Text1": "Function as a Service (FaaS)",
+      "Text2": "Cloud-Plattform, mit der Provider Modulen/Funktionen bereitstellen."
+    },
+    {
+      "Text1": "Platform as a Service (PaaS)",
+      "Text2": "Cloud-Plattform, mit der Provider Entwicklungsumgebung anbieten."
+    },
+    {
+      "Text1": "Software as a Service (SaaS)",
+      "Text2": "Cloud-Plattform, mit der Provider Software via Cloud bereitstellen."
+    }
+  ]
+}
